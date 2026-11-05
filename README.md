@@ -247,3 +247,4 @@ fixture inventory. It is the answer key: a run is correct when what the tool
 platform reports matches what `dataset.json` says should happen, **including
 the tools that are supposed to be dark**.
 
+<!-- dummy PR 2026-11-05 07:32:06 -->
